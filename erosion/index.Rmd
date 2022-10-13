@@ -1,9 +1,9 @@
 ---
-title: "Game on:"
-subtitle: "Social networks and markets"  
+title: "Erosion"
+subtitle: ""  
 author: 
-  - "Lasse Pedersen | AQR"
-date: "JFE | June, 2022"
+  - ""
+date: ""
 output:
   xaringan::moon_reader:
     includes:
