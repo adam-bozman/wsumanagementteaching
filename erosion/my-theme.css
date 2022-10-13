@@ -1,0 +1,22 @@
+.title-slide {
+  background-image: url(img/erosion.mp4);
+  background-size: cover;
+}
+
+.title-slide h1 {
+  color: #f8f0e3;
+}
+.title-slide h2, .title-slide h3 {
+  color: #f8f0e3; 
+  line-height: 1.2em;
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+.title-slide h1 {
+  text-shadow: none;
+  color: #f8f0e3;
+  margin-top: 0px;
+}
