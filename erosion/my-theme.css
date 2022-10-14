@@ -1,5 +1,5 @@
 .title-slide {
-  background-image: url(img/banner.webp);
+  background-image: url(img/banner.jpg);
   background-size: cover;
 }
 
@@ -7,8 +7,9 @@
   color: #f8f0e3;
 }
 .title-slide h2, .title-slide h3 {
+  font-family: Georgia;
   color: #f8f0e3; 
-  line-height: 1.2em;
+  line-height: 0.5em;
 }
 
 .title-slide .remark-slide-number {
@@ -16,7 +17,9 @@
 }
 
 .title-slide h1 {
+  font-family: Georgia;
+  font-size: 4.0rem;
   text-shadow: none;
-  color: #f8f0e3;
-  margin-top: 0px;
+  color: #eaf1e7;
+  margin-top: 180px;
 }
